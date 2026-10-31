@@ -1,0 +1,56 @@
+# Project translations (PT-BR).
+# Hugo does not fall back from "pt-br" to Hextra's "pt.yaml", so the theme's
+# UI strings are declared here in Brazilian Portuguese.
+
+# Menu labels (keys are the menu identifiers in hugo.yaml)
+blog: "Blog"
+about: "Sobre"
+archive: "Arquivo"
+off-topic: "Off-Topic"
+language: "Idioma"
+theme: "Tema"
+github: "GitHub"
+
+# Hextra: accessibility labels (screen reader only)
+closeBanner: "Fechar banner"
+menu: "Menu"
+mermaidDiagram: "Diagrama"
+pdfViewer: "Visualizador de PDF"
+permalinkLabel: "Link permanente para esta seção"
+playbackTime: "Tempo de reprodução"
+searchResults: "Resultados da pesquisa"
+skipToContent: "Pular para o conteúdo"
+tableOfContents: "Sumário"
+terminalRecording: "Gravação de terminal"
+togglePageContextMenu: "Alternar menu de contexto da página"
+toggleSection: "Alternar seção"
+
+# Hextra: accessibility live-region/status text
+resultsFound: "%d resultados encontrados"
+
+# Hextra: user-facing UI text
+archives: "Arquivo"
+backToTop: "Voltar ao topo"
+changeLanguage: "Mudar idioma"
+changeTheme: "Mudar tema"
+copy: "Copiar"
+copied: "Copiado!"
+copyAsMarkdown: "Copiar como Markdown"
+copyPage: "Copiar página"
+copyCode: "Copiar código"
+dark: "Escuro"
+editThisPage: "Editar esta página no GitHub →"
+lastUpdated: "Última atualização em"
+light: "Claro"
+next: "Próximo"
+noResultsFound: "Nenhum resultado encontrado."
+note: "Nota"
+onThisPage: "Nesta página"
+more: "Mais"
+poweredBy: "Desenvolvido com Hextra"
+previous: "Anterior"
+readMore: "Ler mais →"
+searchPlaceholder: "Buscar..."
+system: "Sistema"
+tags: "Tags"
+viewAsMarkdown: "Ver como Markdown"

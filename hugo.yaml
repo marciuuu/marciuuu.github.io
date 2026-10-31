@@ -1,5 +1,20 @@
 # Hugo configuration file
-title: My Site
+title: Márcio Gonçalves
+
+# Multilingual: Portuguese (Brazil) is the default language, served at the
+# site root. English is served under /en/.
+defaultContentLanguage: pt-br
+defaultContentLanguageInSubdir: false
+
+languages:
+  pt-br:
+    label: PT
+    locale: pt-BR
+    weight: 1
+  en:
+    label: EN
+    locale: en-US
+    weight: 2
 
 # import hextra as module
 module:
@@ -16,41 +31,70 @@ markup:
   highlight:
     noClasses: false
 
+# Menu labels are translated through i18n/<lang>.yaml using the identifier.
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - identifier: blog
+      name: Blog
+      pageRef: /
       weight: 1
-    - name: About
+    - identifier: about
+      name: Sobre
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - identifier: archive
+      name: Arquivo
+      pageRef: /archive
       weight: 3
-    - name: Search
+    - identifier: off-topic
+      name: Off-Topic
+      pageRef: /off-topic
       weight: 4
+    - identifier: search
+      name: Search
+      weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+    - identifier: language
+      name: Idioma
+      weight: 6
+      params:
+        type: language-switch
+        label: true
+    - identifier: theme
+      name: Tema
+      weight: 7
+      params:
+        type: theme-toggle
+    - identifier: github
+      name: GitHub
+      weight: 8
+      url: "https://github.com/marciuuu"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
     displayTitle: true
     displayLogo: false
 
+  theme:
+    default: system
+    displayToggle: true
+
   footer:
     displayCopyright: false
     displayPoweredBy: true
 
+  blog:
+    list:
+      displayTags: true
+      sortBy: date
+      sortOrder: desc
+
+  archives:
+    section: blog
+
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/marciuuu/marciuuu.github.io/edit/main/content"

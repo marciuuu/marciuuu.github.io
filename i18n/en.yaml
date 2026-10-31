@@ -1,0 +1,11 @@
+# Project translations (EN). Menu labels use the menu identifier as key.
+blog: "Blog"
+about: "About"
+archive: "Archive"
+off-topic: "Off-Topic"
+language: "Language"
+theme: "Theme"
+github: "GitHub"
+
+# Hextra: alert title missing from the theme's en.yaml
+note: "Note"

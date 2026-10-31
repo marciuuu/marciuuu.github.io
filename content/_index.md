@@ -1,17 +1,9 @@
 ---
-title: My Site
+title: Márcio Gonçalves
+description: Estudos, laboratórios, projetos e artigos sobre cibersegurança defensiva.
 toc: false
 ---
 
-This is the landing page.
+**Blue Team, Security Operations e Segurança da Informação**
 
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+Estudos, laboratórios, projetos e artigos sobre cibersegurança defensiva.
