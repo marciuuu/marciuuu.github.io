@@ -5,40 +5,9 @@ type: about
 
 ## Quem sou
 
-Márcio Gonçalves, autor do log.simples.
-
-[PREENCHER]
-
-## Trajetória
-
-[PREENCHER]
-
-## Formação
-
-[PREENCHER]
-
-## Certificações
-
-[PREENCHER]
-
-## Experiência
-
-[PREENCHER]
-
-## Áreas de interesse
-
-- Blue Team
-- Security Operations
-- Segurança da Informação
-- [PREENCHER]
+X
 
 ## Objetivo do site
 
 Reunir estudos, laboratórios, projetos e artigos sobre cibersegurança defensiva.
 
-[PREENCHER]
-
-## Contato
-
-- GitHub: [github.com/marciuuu](https://github.com/marciuuu)
-- [PREENCHER]
