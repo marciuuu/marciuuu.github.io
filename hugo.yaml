@@ -16,6 +16,13 @@ languages:
     locale: en-US
     weight: 2
 
+# Taxonomies: Hugo defaults (tags, categories) plus "series", which Hextra's
+# opengraph partial reads when a page declares `series` in its front matter.
+taxonomies:
+  tag: tags
+  category: categories
+  series: series
+
 # import hextra as module
 module:
   imports:
