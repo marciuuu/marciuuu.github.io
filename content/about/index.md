@@ -5,6 +5,8 @@ type: about
 
 ## Quem sou
 
+Márcio Gonçalves, autor do log.simples.
+
 [PREENCHER]
 
 ## Trajetória

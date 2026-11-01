@@ -1,11 +1,9 @@
 ---
-title: Márcio Gonçalves
-description: Draft — English translation pending.
+title: log.simples
+description: Notes on technology, security, and learning. Articles, labs, and notes on cybersecurity, systems, and professional development.
 toc: false
 ---
 
-> [!NOTE]
-> Draft — English translation pending.
+**Notes on technology, security, and learning.**
 
-**Blue Team, Security Operations and Information Security**
-
+Articles, labs, and notes on cybersecurity, systems, and professional development.

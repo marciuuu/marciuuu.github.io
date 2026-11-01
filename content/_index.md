@@ -1,9 +1,9 @@
 ---
-title: Márcio Gonçalves
-description: Estudos, laboratórios, projetos e artigos sobre cibersegurança defensiva.
+title: log.simples
+description: Registros sobre tecnologia, segurança e aprendizado. Artigos, laboratórios e notas sobre cibersegurança, sistemas e desenvolvimento profissional.
 toc: false
 ---
 
-**Blue Team, Security Operations e Segurança da Informação**
+**Registros sobre tecnologia, segurança e aprendizado.**
 
-Estudos, laboratórios, projetos e artigos sobre cibersegurança defensiva.
+Artigos, laboratórios e notas sobre cibersegurança, sistemas e desenvolvimento profissional.

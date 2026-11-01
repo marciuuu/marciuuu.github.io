@@ -8,6 +8,8 @@ type: about
 
 ## Who I am
 
+Márcio Gonçalves, author of log.simples.
+
 [TO BE COMPLETED]
 
 ## Background

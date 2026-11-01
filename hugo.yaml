@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Márcio Gonçalves
+title: log.simples
 
 # Multilingual: Portuguese (Brazil) is the default language, served at the
 # site root. English is served under /en/.
@@ -74,6 +74,9 @@ menu:
         icon: github
 
 params:
+  # Used by Hextra for og:site_name
+  title: log.simples
+
   navbar:
     displayTitle: true
     displayLogo: false
